@@ -1,0 +1,13 @@
+haystack-ai
+sentence-transformers>=3.0.0
+huggingface_hub>=0.23.0
+markdown-it-py
+mdit_plain
+pypdf
+gdown
+git+https://github.com/deepset-ai/haystack-experimental
+python-dotenv
+uvicorn
+fastapi
+haystack[faiss]
+faiss-cpu
